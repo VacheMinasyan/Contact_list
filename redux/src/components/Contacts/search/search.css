@@ -1,0 +1,31 @@
+.search__logo {
+  max-width: 15px;
+  max-height: 15px;
+  padding: 6px 0px;
+}
+
+
+input:focus {
+  outline: none;
+  /* background-image: url(../../); */
+
+
+
+}
+
+
+.Serch__second__section {
+  display: flex;
+  border-radius: 17px;
+  border: 1px solid black;
+  padding: 0px 20px;
+  width: 80%;
+  margin: auto;
+  align-items: center;
+
+}
+
+.search__input {
+  border: none;
+  background: white;
+}

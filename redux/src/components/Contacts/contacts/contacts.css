@@ -1,0 +1,57 @@
+.Contact_section {
+  height: 530px;
+  width: auto;
+  overflow-x: hidden;
+
+  overscroll-behavior: contain;
+}
+
+.Contact_section::-webkit-scrollbar {
+  height: 0;
+  background-color: transparent;
+}
+
+.Cont {
+  margin-top: 10px;
+}
+
+.alfa_header {
+  /* background-color: #E5E6EA; */
+  font-size: 8px;
+}
+
+.alfa {
+  padding-left: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  background-color: #E5E6EA;
+  /* height: 3px; */
+}
+
+.circle_box {
+  padding: 7px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  border-bottom: 1px solid black;
+  width: 86%;
+  margin: auto;
+}
+
+.circle {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 20px;
+  border: 1px solid #000000;
+  width: 27px;
+  height: 27px;
+  justify-content: center;
+  align-items: center;
+
+  display: flex;
+}
+
+.alfa_name {
+  margin-left: 10px;
+  font-size: 15px;
+}

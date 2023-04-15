@@ -1,0 +1,16 @@
+.Contact_add_box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btn_ {
+  color: blue;
+  border: none;
+  background: linear-gradient(rgb(249, 249, 249), rgb(255, 255, 255));
+
+}
+
+.btn_:hover {
+  cursor: pointer;
+}
